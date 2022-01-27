@@ -1,2 +1,9 @@
-# README.md
-from GitHub import ReadMe  class Dropout(ReadMe):     "/Dropout1337/Dropout1337/README.md"      def __init__(self):         self.username = "Dropout"         self.contacts = {             "Discord": "dropout#2302",             "Telegram": "dropoutuwu" # rip, got termed         }         self.alises = [             "Dropout",             "Dropout1337"         ]         self.location = "New Zealand, Hastings"         self.age = "13, Born 15 February 2008"         self.occupation = "Freelance Developer"         self.projects = {             "public": {                   "total": 40,                   "location": "github.com/dropout1337?tab=repositories"             },             "paid": {                 "total": 23,                 "earnings": 3500,                 "location": "unknown"             }         }         self.operating_system = "Arch, Linux"
+Hi, I don't feel any interest anymore when I create malware. I no longer feel any interest in creating projects for it to be stolen by pitiful skids.
+
+I would like to apologize to all the people who had problems with Lithium Grabber or with me personally.
+
+All good adventures come to an end.
+
+Thank you for everything
+
+- Neo
